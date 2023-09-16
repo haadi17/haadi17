@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haadi1
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Computer Application.
+- 💞️ I’m looking to collaborate on projects that interest me.
 - 📫 How to reach me https://haadimallade.carrd.co
 
 <!---
